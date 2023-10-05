@@ -1,5 +1,5 @@
 # Projeto-RPG-SwiftUI
-Projeto RPG inspirado em D&D realizado no HackaTruck MakerSpace - projeto de capacitação profissional estudantes de Instituições de Ensino Superior de Tecnologia da Informação, em desenvolvimento iOS para aplicativos móveis com aplicação em Internet das Coisas (IoT), enfatizando a aplicação de conceitos e práticas de serviços cognitivos em nuvem.
+Projeto RPG inspirado em D&D realizado com os colegas <a href="https://github.com/Gioh-Workplace"> Giovani Justo</a> e <a href="https://github.com/richardOliveira11"> Richard Custódio </a>no HackaTruck MakerSpace - projeto de capacitação profissional estudantes de Instituições de Ensino Superior de Tecnologia da Informação, em desenvolvimento iOS para aplicativos móveis com aplicação em Internet das Coisas (IoT), enfatizando a aplicação de conceitos e práticas de serviços cognitivos em nuvem.
 
 ## Nossa proposta 
 - Facilitar o uso e acesso dos livros de RPG e personalização dos personagens.
