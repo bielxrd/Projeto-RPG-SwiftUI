@@ -33,3 +33,8 @@ Uma interface simples e intuitiva com uma navegação direta para áreas de inte
 - Tela de introdução (responsável por trazer as informações gerais do aplicativo, regras, como utilizar o D20).
 - Tela Livros (responsável por disponibilizar informações sobre D&D como classes, raças, armas, itens mágicos etc).
 - Tela Personagens (responsável por mostrar os personagens criados pelos usuários e disponibilizar que seja criado o seu próprio personagem, com nome, raça, classe, idade, URL da imagem do personagem e seus atributos).
+
+# Demonstração do aplicativo (v1.0.0)
+
+
+https://github.com/bielxrd/Projeto-RPG-SwiftUI/assets/129539000/edc386a6-ce07-4748-a425-8dfc8b8fbc54
